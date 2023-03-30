@@ -1,2 +1,2 @@
-# grafo
+# Grafo
 Lista 2 Teoria da Computação
